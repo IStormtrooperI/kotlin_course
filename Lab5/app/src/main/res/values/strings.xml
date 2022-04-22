@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_chat">Живой чат</string>
+    <string name="title_quiz">Викторина</string>
+    <string name="title_add_message">Ваше сообщение</string>
+    <string name="close">close</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="message">Сообщение</string>
+</resources>
